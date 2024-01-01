@@ -1,6 +1,6 @@
 # Portofolio Website: New 
 
-User-freindly website to show case my work and hobbies!
+ Website to show case my work and hobbies!
 
 ## Bulid with 
 - HTML
@@ -29,3 +29,4 @@ User-freindly website to show case my work and hobbies!
 - Img : This folder conatins all th imges used.
 - scss : This folder contains all the styles for individual section .
 - resume : This folder contains resume and CV.
+- particles.json : json file for background.

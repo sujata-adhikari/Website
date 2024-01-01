@@ -3,12 +3,12 @@
 User-freindly website to show case my work and hobbies!
 
 ## Bulid with 
--- HTML
--- CSS
--- Javascript
--- Cloudflare
--- Github pages
--- VS code
+- HTML
+- CSS
+- Javascript
+- Cloudflare
+- Github pages
+- VS code
 
 
 ## Installation
